@@ -15,4 +15,6 @@ This repo contains the official implementation of the paper "Affective Faces for
     <a href="http://www.cs.columbia.edu/~vondrick/"><strong>Carl Vondrick</strong></a>
 </p>
 
+![teaser](https://user-images.githubusercontent.com/25853901/214994155-23880fb2-312e-41a1-b5a5-989aad958856.png)
+
 <br><h3>Code coming soon!</h3>
